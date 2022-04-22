@@ -1,8 +1,9 @@
+import javax.swing.*;
 import java.util.Scanner;
+import java.util.jar.JarOutputStream;
 
 public class Rectangle {
-    public static void main(String[] args) {
-        Scanner scanner=new Scanner(System.in);
+    public static void main(String[] args) {Scanner scanner=new Scanner(System.in);
         double l,b;
         System.out.println("Enter length and breadth in double");
         l= scanner.nextInt();
@@ -12,7 +13,17 @@ public class Rectangle {
         int area=le*bre;
         System.out.println("The area is "+area);
     }
-}
-class Rect{
 
+
+}
+
+class recta{
+    public static void main(String[] args) {
+        int l,b,area;
+        l=Integer.parseInt(JOptionPane.showInputDialog(null,"Enter length:"));
+        b=Integer.parseInt(JOptionPane.showInputDialog(null,"Enter breadth:"));
+        area=l*b;
+        JOptionPane.showMessageDialog(null,"The area: "+area);
+
+    }
 }

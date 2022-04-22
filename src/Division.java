@@ -31,3 +31,15 @@ class div{
         JOptionPane.showMessageDialog(null,"Division: "+division);
     }
 }
+class typecasting{
+    public static void main(String[] args) {
+        int a=3;
+        int b=4;
+        int sum=(a+b);
+        int product=(a*b);
+        double castedSum=(double) (sum);
+        double castedProduct=(double) (product);
+        System.out.println("The sum: "+castedSum);
+        System.out.println("The product: "+castedProduct);
+    }
+}
