@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6ca80bc6-5b8e-4850-8b95-24240701ec50" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Salary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP/Add.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP/Chara.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP/Cu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP/Cube.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP/Cubo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP/Cuboid.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP/Divisible.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP/Division.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP/Even.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP/Inp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP/Iso.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP/Leap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP/Marks.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP/Markss.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP/Max.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP/Maximum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP/Month.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP/Nega.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP/Peri.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP/Perimeter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP/Profit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP/SI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP/Salar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP/Simple.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP/Sq.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP/Square.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP/Sub.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP/Subj.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP/Subjects.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP/Sum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP/Ter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP/Ternary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP/Tria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP/Triaa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP/Triangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP/Trianglee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP/TwoInputs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP/Twostring.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP/Units.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP/Upp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP/Upper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP/Var.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP/Variables.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP/Vowels.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP/countnumberofnotes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP/div.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP/isAlphabet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP/quadratic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP/recta.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP/std.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP/stud.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP/stude.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP/twostr.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP/typecasting.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="28JgCjT8mj9cMYKWAoVG4pncm3I" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.Cube">
+    <configuration name="Cu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Cu" />
+      <module name="Oop" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Cube" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Cube" />
+      <module name="Oop" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Cube" />
+        <item itemvalue="Application.Cu" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6ca80bc6-5b8e-4850-8b95-24240701ec50" name="Changes" comment="" />
+      <created>1650939978259</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650939978259</updated>
+    </task>
+    <servers />
+  </component>
+</project>
